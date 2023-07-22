@@ -1,4 +1,3 @@
-# CodeClause_To-Do-List
 # To-Do List
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It provides features for adding, deleting, and editing tasks.
